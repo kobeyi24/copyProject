@@ -1,0 +1,55 @@
+{
+  "name": "copyProject2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copyProject.js",
+  "dependencies": {
+    "_brace-expansion@1.1.11@brace-expansion": "^1.1.11",
+    "_balanced-match@1.0.0@balanced-match": "^1.0.0",
+    "_glob@7.1.6@glob": "^7.1.6",
+    "_inflight@1.0.6@inflight": "^1.0.6",
+    "_interpret@1.2.0@interpret": "^1.2.0",
+    "_concat-map@0.0.1@concat-map": "^0.0.1",
+    "_minimatch@3.0.4@minimatch": "^3.0.4",
+    "_fs.realpath@1.0.0@fs.realpath": "^1.0.0",
+    "_once@1.4.0@once": "^1.4.0",
+    "_inherits@2.0.4@inherits": "^2.0.4",
+    "_path-is-absolute@1.0.1@path-is-absolute": "^1.0.1",
+    "_path-parse@1.0.6@path-parse": "^1.0.6",
+    "_resolve@1.15.1@resolve": "^1.15.1",
+    "_rechoir@0.6.2@rechoir": "^0.6.2",
+    "_wrappy@1.0.2@wrappy": "^1.0.2",
+    "_shelljs@0.8.3@shelljs": "^0.8.3",
+    "balanced-match": "^1.0.0",
+    "brace-expansion": "^1.1.11",
+    "concat-map": "^0.0.1",
+    "inflight": "^1.0.6",
+    "fs.realpath": "^1.0.0",
+    "glob": "^7.1.6",
+    "inherits": "^2.0.4",
+    "interpret": "^1.2.0",
+    "path-is-absolute": "^1.0.1",
+    "minimatch": "^3.0.4",
+    "path-parse": "^1.0.6",
+    "rechoir": "^0.6.2",
+    "once": "^1.4.0",
+    "shelljs": "^0.8.3",
+    "resolve": "^1.15.1",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobeyi24/copyProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobeyi24/copyProject/issues"
+  },
+  "homepage": "https://github.com/kobeyi24/copyProject#readme"
+}
